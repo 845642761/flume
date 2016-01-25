@@ -11,7 +11,6 @@ public class Source_Test {
 		while (true) {
 			st.log("log line num = "+i);
 			i++;
-			System.out.println("==========="+i);
 			st.sleep(1000);
 		}
 	}
